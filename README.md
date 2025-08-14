@@ -13,15 +13,21 @@ This one remembers your past messages — whether from minutes ago or weeks ago 
 
 📌 How It Works:
 
-🔍 Preprocesses text with stemming for better language understanding
+🗂 State Management & Workflow Creation with LangGraph – A node-based conversational graph that defines dialogue flow, branching logic, and context handling.
 
-🗂 Manages state with LangGraph for smooth conversation flow
+🧠 LangChain’s LLM Engine – Generates intelligent, context-aware responses using advanced NLP, machine learning, and deep learning techniques.
 
-🧠 Uses LangChain’s LLM for intelligent and context-aware responses
+💾 Persistent Memory in SQL Database – Every conversation is stored for future recall, enabling truly continuous and personalized interactions.
 
-💾 Stores all conversations in an SQL database for persistent memory
+🧵 Threading for Multiple Conversations – Supports separate conversation threads so different chats can run simultaneously without mixing histories.
 
-🔄 Delivers replies that take previous interactions into account
+💬 Custom UI for Interaction – A clean, responsive interface designed for smooth, real-time chatting.
+
+🔄 Context-Aware Replies – Every message takes into account all relevant past messages in the thread for coherent, natural conversations.
+
+📊 Graph-Driven Logic – LangGraph visually maps out the conversation flow, making it adaptive and maintainable.
+
+⚡ Word-by-Word Streaming – Replies are streamed one word at a time for a dynamic, real-time chat experience similar to ChatGPT.
 
 🛠 Tech Stack:
 LangGraph | LangChain | Python | SQL Database | NLP (Stemming) | Streamlit
