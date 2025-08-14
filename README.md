@@ -1,6 +1,6 @@
 # 16.Context-Aware Persistent Chat Model
 
-!(Screenshot)[gitimg.png]
+![Screenshot](gitimg.png)
 
 I built a Generative AI chatbot that not only replies to messages but also remembers the entire conversation history across sessions — thanks to SQL-based persistence and LangGraph state management.
 
