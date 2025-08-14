@@ -13,9 +13,9 @@ This one remembers your past messages — whether from minutes ago or weeks ago 
 
 📌 How It Works:
 
-🗂 State Management & Workflow Creation with LangGraph – A node-based conversational graph that defines dialogue flow, branching logic, and context handling.
+State Management & Workflow Creation with LangGraph – A node-based conversational graph that defines dialogue flow, branching logic, and context handling.
 
-🧠 LangChain’s LLM Engine – Generates intelligent, context-aware responses using advanced NLP, machine learning, and deep learning techniques.
+🧠 Hugging Face LLM via LangChain – Uses a fine-tuned Hugging Face model to generate intelligent, context-aware responses.
 
 💾 Persistent Memory in SQL Database – Every conversation is stored for future recall, enabling truly continuous and personalized interactions.
 
